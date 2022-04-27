@@ -1,4 +1,6 @@
 body {
+  text-align: center;
+  align-items: center;
     /* background-color: rgb(150, 204, 235);*/
     background-color:  #ccd9ff ;
 }
@@ -9,13 +11,13 @@ body {
 }
 .digitContainer {
   display: flex;
-  text-align: center;
+  justify-content: center;
+
 }
 
 .clock {
   color: blue;
   margin: 1px;
- 
   font-size: 3rem;
 }
 
